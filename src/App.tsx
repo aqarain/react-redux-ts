@@ -1,6 +1,6 @@
 import { useDispatch, useSelector } from 'react-redux';
 import { bindActionCreators } from 'redux';
-import { actionCreators, State } from './store';
+import { actionCreators, State } from 'store';
 
 export const App = () => {
   const dispatch = useDispatch();

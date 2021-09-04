@@ -1,4 +1,4 @@
-import { ActionType } from '../../utils/constants';
+import { ActionType } from 'utils/constants';
 
 const initialState = 0;
 
